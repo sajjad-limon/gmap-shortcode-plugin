@@ -15,8 +15,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit; // Exit if accessed directly.
 }
 
-function easy_gmap_register_shortcode($attributes){
-    
+function easy_gmap_register_shortcode($attributes){    
     $default_value = [
         'place' => 'Berlin, Germany',
         'width' => 800,
