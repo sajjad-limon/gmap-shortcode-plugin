@@ -18,7 +18,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 function easy_gmap_register_shortcode($attributes){
     
     $default_value = [
-        'place' => 'New York, USA',
+        'place' => 'Berlin, Germany',
         'width' => 800,
         'height' => 600,
         'zoom'  => 10
