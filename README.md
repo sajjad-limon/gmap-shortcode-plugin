@@ -1,6 +1,6 @@
 # Easy Google Map Shortcode Plugin
 
-A simple, lightweight WordPress plugin that allows you to display Google Maps anywhere using a shortcode.
+A simple, lightweight WordPress plugin that allows you to display Google Maps anywhere using a shortcode. Just write the Shortcode name and display google maps on your website.
 
 ## Features
 
